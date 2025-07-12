@@ -1,0 +1,39 @@
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #333;
+}
+
+header, footer {
+  background-color: #f0f0f0;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #0077cc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  min-height: 60vh;
+}
+
+.project-list {
+  list-style: none;
+  padding: 0;
+}
+
+.project-list li {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
