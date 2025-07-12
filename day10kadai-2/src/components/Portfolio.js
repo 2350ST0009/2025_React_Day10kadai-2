@@ -1,6 +1,12 @@
 // components/Portfolio.js
 import React from "react";
 
+
+/*
+// githubのリンクは../data/projects.jsonから取得することを想定しています。
+*/
+
+
 function Portfolio({ projects }) {
   return (
     <section>
@@ -17,5 +23,6 @@ function Portfolio({ projects }) {
     </section>
   );
 }
+
 
 export default Portfolio;

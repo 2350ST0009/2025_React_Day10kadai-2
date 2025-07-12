@@ -2,13 +2,25 @@
   {
     "id": 1,
     "title": "React Todo App",
-    "description": "シンプルなTODOリストアプリ",
-    "url": "https://github.com/takahashi/react-todo"
+    "description": "Reactを用いたリアルタイムフォーム反映アプリ",
+    "url": "https://github.com/2350ST0009/2025_React_0524-day5kadai.git"
   },
   {
     "id": 2,
-    "title": "Portfolio Website",
-    "description": "自分のポートフォリオサイト",
-    "url": "https://takahashi.dev"
+    "title": "TypeScript Count Up App",
+    "description": "Reactを用いたカウントアップアプリ",
+    "url": "https://github.com/2350ST0009/2025_React_TScountUp.git"
+  },
+  {
+    "id": 3,
+    "title": "Card Game App",
+    "description": "Deck of Cards APIを使用したチームで開発中のカードゲームアプリ",
+    "url": "https://github.com/2350ST0009/2025_ITproject_CardGame-beta.git"
+  },
+  {
+    "id": 4,
+    "title": "Python kadai",
+    "description": "2024年度のPythonでの授業で提出した数字当てゲーム",
+    "url": "https://github.com/2350ST0009/2024_Python_kadai.git"
   }
 ]
