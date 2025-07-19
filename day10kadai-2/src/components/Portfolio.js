@@ -10,7 +10,7 @@ import React from "react";
 function Portfolio({ projects }) {
   return (
     <section>
-      <h2>Portfolio</h2>
+      <h2>主な制作物</h2>
       <ul className="project-list">
         {projects.map((project) => (
           <li key={project.id}>

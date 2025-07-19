@@ -37,3 +37,11 @@ main {
   border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
 }
+
+/* 768px以下の画面サイズ（スマホ）用 */
+@media (max-width: 768px) {
+  .project-list li {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
